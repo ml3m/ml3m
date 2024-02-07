@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :sparkler: About Me:
 Creating my own work environment to maximize efficiency and fluency.
 
 # 📊 GitHub Stats:
