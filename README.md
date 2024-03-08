@@ -7,8 +7,7 @@
 
 # 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ml3m&theme=darcula&hide_border=true&border_radius=5.3&card_width=900" alt="GitHub Streak" /></a>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ml3m&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mlem's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml3m&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 ---
 
