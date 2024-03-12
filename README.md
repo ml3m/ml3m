@@ -8,13 +8,6 @@
 # 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ml3m&theme=darcula&hide_border=true&border_radius=5.3&card_width=900" alt="GitHub Streak" /></a>
 
-                   __  __                  
-                  / //'__`\                
-  ___ ___        / //\_\L\ \    ___ ___    
-/' __` __`\     / / \/_/_\_<_ /' __` __`\  
-/\ \/\ \/\ \   / /    /\ \L\ \/\ \/\ \/\ \ 
-\ \_\ \_\ \_\ /_/     \ \____/\ \_\ \_\ \_\
- \/_/\/_/\/_//_/       \/___/  \/_/\/_/\/_/
 ---
 
 > [!TIP]
