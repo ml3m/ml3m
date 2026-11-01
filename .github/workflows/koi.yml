@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v7
       - uses: yalongwastaken/git-koi@v1
         with:
-          body: white
+          body: asagi
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
