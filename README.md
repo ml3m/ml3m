@@ -20,5 +20,5 @@
 <br clear="all">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ml3m" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ml3m&color=ff914d&style=flat" alt="profile views" />
 </p>
