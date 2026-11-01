@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - .github/workflows/bonsai.yml
+      - scripts/upscale_bonsai.py
 
 permissions:
   contents: write
@@ -24,6 +25,19 @@ jobs:
       - uses: egorthinks/git-bonsai@main
         with:
           commit: 'false'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install Pillow
+        run: pip install Pillow
+      - name: Make pixel art crisp
+        run: |
+          # Copy growth animation as the main display
+          if [ -f output/bonsai-growth.gif ]; then
+            cp output/bonsai-growth.gif output/bonsai.gif
+          fi
+          python3 scripts/upscale_bonsai.py
       - name: Commit bonsai
         shell: bash
         run: |
