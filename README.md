@@ -2,6 +2,9 @@
   <img width="380" alt="Hello, I'm Mlem I do algorithms!" src="./assets/banner_pond.gif" />
 </p>
 
+<picture>
+  <img align="left" width="45%" src="assets/riser.svg" alt="">
+</picture>
 <a href="https://github.com/yalongwastaken/git-koi">
   <img src="koi/koi.gif" align="right" width="45%" alt="My koi, redrawn every night from the day's activity">
 </a>
