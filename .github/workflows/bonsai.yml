@@ -29,8 +29,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Install Pillow
-        run: pip install Pillow
+      - name: Install dependencies
+        run: pip install Pillow numpy
       - name: Make pixel art crisp
         run: |
           # Copy growth animation as the main display
